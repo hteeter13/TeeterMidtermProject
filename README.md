@@ -5,3 +5,4 @@
 # Features: Incorporates Tableau to provide visualization of the data for a clearer picture of legislation and turnout.
 Tableau Links: https://public.tableau.com/app/profile/harrison.teeter/vizzes
                https://public.tableau.com/app/profile/harrison.teeter/viz/TeeterDataAnalyticsMidterm/AVR2024?publish=yes
+               https://public.tableau.com/authoring/TeeterDataAnalyticsMidterm/VoterRate#1
